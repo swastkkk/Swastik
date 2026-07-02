@@ -82,7 +82,7 @@ I back this up with **300+ solved DSA & CP problems** across LeetCode and CodeCh
 
 | Domain | Focus Areas |
 |---|---|
-| **Data Structures & Algorithms** | Graphs (BFS/DFS, Dijkstra), Trees, DP, Heaps, Segment Trees, Binary Search, Sliding Window |
+| **Data Structures & Algorithms** | Graphs, Trees, DP, Heaps, Segment Trees, Binary Search, Sliding Window |
 | **Web Development** | React, Node.js, Express.js, MongoDB, REST APIs — MERN Stack |
 | **Cloud & AWS** | EC2, S3, Lambda, Kinesis, Athena, API Gateway, CloudFormation, IAM, VPC |
 | **SQL** | Joins, CTEs, Window Functions, Subqueries |
