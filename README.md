@@ -232,33 +232,16 @@ Core strengths: Graphs · Trees · Dynamic Programming · Heaps · Segment Trees
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=swastkkk&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swastkkk&theme=dark" alt="GitHub Streak" /></a>
+
 &nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=swastkkk&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastkkk&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=swastkkk&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
-
-</div>
-
----
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastkkk&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swastkkk&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
