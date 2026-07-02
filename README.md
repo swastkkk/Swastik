@@ -245,26 +245,22 @@ Core strengths: Graphs · Trees · Dynamic Programming · Heaps · Segment Trees
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
 ---
 
 ## Current Focus
 
 ```yaml
 Learning:
+  - Data Structures & Algorithm
   - Distributed Systems & Consensus Algorithms
   - Advanced System Design
   - Cloud Engineering on AWS (Athena, Kinesis, Lambda)
+ 
 
 Building:
   - Production-grade distributed systems in Java
   - Serverless, event-driven data pipelines on AWS
-  - Full-stack platforms serving real users (Click2Biz)
+  - Full-stack platforms serving real users
 
 Exploring:
   - Consistent hashing & consensus protocols (Raft, Paxos)
