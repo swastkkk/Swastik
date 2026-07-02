@@ -186,19 +186,19 @@ I back this up with **300+ solved DSA & CP problems** across LeetCode and CodeCh
 
 **Amazon Web Services**
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ecc89c9d-8af7-4644-8afe-2efb07198492/public_url)
 &nbsp;
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/fd462a27-0b74-4651-be3d-93bf6017be8c/public_url)
 &nbsp;
-![AWS CloudOps Engineer](https://img.shields.io/badge/AWS-CloudOps_Engineer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS CloudOps Engineer](https://img.shields.io/badge/AWS-CloudOps_Engineer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/be9f18a9-8bae-4c77-924e-40483e562fb0/public_url)
 &nbsp;
-![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/6307ebce-3b5e-42fe-9cd0-22cad989795b/public_url)
 
 <br/>
 
 **Google Cloud**
 
-![Google Cloud Study Jams](https://img.shields.io/badge/Google_Cloud-Study_Jams-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+[![Google Cloud Study Jams](https://img.shields.io/badge/Google_Cloud-Study_Jams-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/46848622-f0a5-4359-a6ab-fb86271c2343)
 
 </div>
 
@@ -209,7 +209,7 @@ I back this up with **300+ solved DSA & CP problems** across LeetCode and CodeCh
 <div align="center">
 
 <a href="https://leetcode.com/u/swastikkk/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Max_Rating_1484-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-Max_Rating_1490-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://codechef.com/users/swastikkkk" target="_blank">
@@ -220,9 +220,9 @@ I back this up with **300+ solved DSA & CP problems** across LeetCode and CodeCh
 
 <div align="center">
 
-**300+ DSA & SQL problems solved** across LeetCode and CodeChef
+**300+ DSA & CP problems solved** across LeetCode and CodeChef
 
-Core strengths: Graphs (BFS/DFS, Dijkstra) · Trees · Dynamic Programming · Heaps · Segment Trees · Hash Maps · Two Pointers · Sliding Window · Binary Search · SQL (Joins, CTEs, Window Functions, Subqueries)
+Core strengths: Graphs · Trees · Dynamic Programming · Heaps · Segment Trees · Hash Maps · Two Pointers · Sliding Window · Binary Search · SQL (Joins, CTEs, Window Functions, Subqueries)
 
 </div>
 
